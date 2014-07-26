@@ -2,7 +2,7 @@
 
 Installs [Xbox 360 controller](http://tattiebogle.net/index.php/ProjectRoot/Xbox360Controller/OsxDriver).
 
-[![Build Status](https://travis-ci.org/nickpellant/puppet-xbox_360_controller.svg?branch=master)](https://travis-ci.org/nickpellant/puppet-xbox_360_controller)
+[![Build Status](https://travis-ci.org/boxen/puppet-xbox_360_controller.svg?branch=master)](https://travis-ci.org/boxen/puppet-xbox_360_controller)
 
 ## Usage
 
